@@ -1,11 +1,11 @@
 # JR 東日本
 jreast/chuo-sobu,中央・総武線
-kehin-tohoku,京浜東北線
-keiyo,京葉線
-musashino,武蔵野線
-sobu-yokosuka,総武線
-sobu-yokosuka,横須賀線
-yamanote,山手線
+jreast/kehin-tohoku,京浜東北線
+jreast/keiyo,京葉線
+jreast/musashino,武蔵野線
+jreast/sobu-yokosuka,総武線
+jreast/sobu-yokosuka,横須賀線
+jreast/yamanote,山手線
 
 # 京急
 keikyu,京急線
