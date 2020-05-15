@@ -27,5 +27,5 @@ DN,千葉中央
 DN,ちはら台
 
 # 直通情報
-C,/toei/asakusa
-C,/shinkeisei
+C,toei/asakusa
+C,shinkeisei
