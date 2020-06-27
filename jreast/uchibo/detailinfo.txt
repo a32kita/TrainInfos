@@ -1,0 +1,15 @@
+# 種別情報
+T,普通
+T,快速
+
+# 行き先情報
+DN,千葉
+DT,蘇我
+DN,木更津
+DN,君津
+DN,館山
+DN,安房鴨川
+
+# 直通情報
+C,jreast/keiyo
+C,jreast/sobu-yokosuka

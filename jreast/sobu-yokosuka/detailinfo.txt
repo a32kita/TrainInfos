@@ -14,3 +14,6 @@ DT,幕張
 DN,千葉
 
 # 直通情報
+C,jreast/narita
+C,jreast/uchibo
+C,jreast/sotobo
