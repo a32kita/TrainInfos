@@ -12,3 +12,4 @@ DN,蘇我
 
 # 直通情報
 C,jreast/musashino
+C,jreast/uchibo
