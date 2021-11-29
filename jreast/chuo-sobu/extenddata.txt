@@ -24,3 +24,7 @@ VNP, サハ
 
 # 車両番号テンプレート (VNT)
 VNT, E231-
+
+
+# 運用報告タグ (ORT)
+ORT, jre_unyo
