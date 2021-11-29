@@ -1,15 +1,14 @@
 # 運用番号プレフィクス (ONP)
 ONP, A
-ONP, K
 ONP, B
-ONP, N
-ONP, H
-ONP, T
-ONP, A
-ONP, F
 
 
 # 運用番号プレフィクス (ONS)
+ONS, K
+ONS, F
+ONS, N
+ONS, H
+ONS, T
 
 
 # 編成番号プレフィクス (FNP)
@@ -26,3 +25,7 @@ ONP, F
 
 # 車両番号テンプレート (VNT)
 VNT, 3-
+
+
+# 運用報告タグ (ORT)
+ORT, keisei_unyo
