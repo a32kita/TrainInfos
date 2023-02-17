@@ -29,3 +29,4 @@ DN,ちはら台
 # 直通情報
 C,toei/asakusa
 C,shinkeisei
+C,keikyu
