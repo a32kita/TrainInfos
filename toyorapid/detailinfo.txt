@@ -1,0 +1,12 @@
+# 種別情報
+T,各駅停車
+T,快速
+T,通勤快速
+
+# 行き先情報
+DN,東葉勝田台
+DN,八千代緑が丘
+
+# 直通情報
+C,tokyometro/tozai
+C,jreast/chuo-sobu
