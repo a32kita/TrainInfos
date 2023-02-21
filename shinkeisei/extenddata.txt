@@ -20,3 +20,7 @@ ONP, B
 
 # 車両番号テンプレート (VNT)
 VNT, N8-
+
+
+# 運用報告タグ (ORT)
+ORT, sk_unyo
