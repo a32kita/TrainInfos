@@ -23,3 +23,8 @@ ONP, T
 
 # 車両番号テンプレート (VNT)
 VNT, 55-
+
+
+# 運用報告タグ (ORT)
+ORT, toei_unyo
+ORT, 1go_unyo
