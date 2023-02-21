@@ -1,26 +1,30 @@
 # 運用番号プレフィクス (ONP)
-ONP, F
-ONP, B
 
 
-# 運用番号プレフィクス (ONS)
+# 運用番号サフィックス (ONS)
+ONS, Y
+ONS, E
 
 
 # 編成番号プレフィクス (FNP)
+FNP, 都ヤマ
 
 
 # 編成番号サフィックス (FNS)
 
 
 # 車両番号プレフィクス (VNP)
+VNP, クハ
+VNP, モハ
+VNP, サハ
 
 
 # 車両番号サフィックス (VNS)
 
 
 # 車両番号テンプレート (VNT)
-VNT, N8-
+VNT, E231-
 
 
 # 運用報告タグ (ORT)
-ORT, sk_unyo
+ORT, jre_unyo

@@ -9,6 +9,7 @@ jreast/sobu-yokosuka,横須賀線
 jreast/sotobo,外房線
 jreast/uchibo,内房線
 jreast/yamanote,山手線
+jreast/shonan-shinjuku,湘南新宿ライン線
 
 # 京急
 keikyu,京急線
@@ -24,6 +25,7 @@ hokuso,北総線
 
 # 東京都交通局
 toei/asakusa,都営浅草線
+toei/mita,都営三田線
 
 # 東京メトロ
 tokyometro/ginza,銀座線
