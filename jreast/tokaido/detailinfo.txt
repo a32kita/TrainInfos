@@ -2,11 +2,12 @@
 T,普通
 T,快速
 T,特別快速
+T,ホリデー快速
 
 # 行き先情報
-DN,新宿
-DT,大崎
 DN,品川
+DN,大船
+DN,熱海
 
 # 直通情報
-C,jreast/tokaido
+C,jreast/shonan-shinjuku
