@@ -30,3 +30,4 @@ DN,ちはら台
 C,toei/asakusa
 C,shinkeisei
 C,keikyu
+C,hokuso
