@@ -2,12 +2,11 @@
 
 
 # 運用番号サフィックス (ONS)
-ONS, F
 ONS, S
-
+ONS, K
+ONS, T
 
 # 編成番号プレフィクス (FNP)
-FNP, 横クラF-
 
 
 # 編成番号サフィックス (FNS)
@@ -23,8 +22,9 @@ VNP, サハ
 
 
 # 車両番号テンプレート (VNT)
-VNT, E235-
+VNT, 05-
 
 
 # 運用報告タグ (ORT)
-ORT, jre_unyo
+ORT, metro_unyo
+ORT, tozai_unyo

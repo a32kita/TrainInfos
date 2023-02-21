@@ -1,0 +1,15 @@
+# 種別情報
+T,各駅停車
+T,快速
+T,通勤快速
+
+# 行き先情報
+DN,中野
+DN,西船橋
+DT,茅場町
+DT,日本橋
+DT,九段下
+
+# 直通情報
+C,jreast/chuo-sobu
+C,toyorapid
