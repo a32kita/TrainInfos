@@ -25,6 +25,9 @@ shinkeisei,新京成線
 # 北総
 hokuso,北総線
 
+# 芝山
+shibayama,芝山鉄道線
+
 # 東京都交通局
 toei/asakusa,都営浅草線
 toei/mita,都営三田線
