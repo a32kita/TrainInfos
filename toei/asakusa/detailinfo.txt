@@ -17,3 +17,5 @@ DN,西馬込
 # 直通情報
 C,keisei
 C,keikyu
+C,shibayama
+C,hokuso
