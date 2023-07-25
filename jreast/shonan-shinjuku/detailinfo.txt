@@ -10,3 +10,4 @@ DN,品川
 
 # 直通情報
 C,jreast/tokaido
+C,rinkai
