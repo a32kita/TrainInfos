@@ -5,6 +5,7 @@ T,普通
 # 行き先情報
 DN,西船橋
 DN,府中本町
+DT,所沢
 
 # 直通情報
 C,jreast/keiyo
