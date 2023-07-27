@@ -9,6 +9,7 @@ jreast/sobu-yokosuka,横須賀線
 jreast/sotobo,外房線
 jreast/uchibo,内房線
 jreast/yamanote,山手線
+jreast/saikyo,埼京線
 jreast/shonan-shinjuku,湘南新宿ライン線
 jreast/tokaido,東海道線
 jreast/joban,常磐線
