@@ -37,6 +37,7 @@ toei/mita,都営三田線
 tokyometro/ginza,銀座線
 tokyometro/tozai,東西線
 tokyometro/hibiya,日比谷線
+tokyometro/marunouchi,丸ノ内線
 
 # 東葉高速鉄道
 toyorapid,東葉高速線

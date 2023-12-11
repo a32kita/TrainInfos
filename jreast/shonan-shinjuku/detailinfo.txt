@@ -2,11 +2,26 @@
 T,普通
 T,快速
 T,特別快速
+T,特急
 
 # 行き先情報
 DN,新宿
+DT,浦和
+DN,宇都宮
+DN,籠原
+DN,高崎
+DN,小金井
+DT,古河
+DT,八王子
+DN,前橋
+DT,大宮
 DT,大崎
-DN,品川
+DT,品川
+DN,大船
+DN,逗子
+DN,小田原
+DN,平塚
+DT,国府津
 
 # 直通情報
 C,jreast/tokaido
