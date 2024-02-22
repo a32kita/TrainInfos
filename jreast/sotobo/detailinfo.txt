@@ -10,4 +10,4 @@ DN,安房鴨川
 
 # 直通情報
 C,jreast/sobu-yokosuka
-
+C,jreast/keiyo
