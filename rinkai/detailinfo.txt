@@ -11,3 +11,4 @@ DN,川越
 
 # 直通情報
 C,jreast/shonan-shinjuku
+C,jreast/saikyo
