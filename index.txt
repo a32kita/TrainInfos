@@ -32,6 +32,7 @@ shibayama,芝山鉄道線
 # 東京都交通局
 toei/asakusa,都営浅草線
 toei/mita,都営三田線
+toei/shinjuku,都営新宿線
 
 # 東京メトロ
 tokyometro/ginza,銀座線
