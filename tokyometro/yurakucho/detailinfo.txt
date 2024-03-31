@@ -1,0 +1,20 @@
+# 種別情報
+T,各駅停車
+T,S-TRAIN
+
+# 行き先情報
+DN,和光市
+DN,新木場
+DN,川越市
+DN,小手指
+DN,保谷
+DN,石神井公園
+DN,志木
+DN,森林公園
+DT,清瀬
+DT,所沢
+DT,池袋
+DT,飯能
+
+# 直通情報
+# C,tokyu/denentoshi

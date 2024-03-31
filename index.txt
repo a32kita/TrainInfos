@@ -39,9 +39,14 @@ tokyometro/ginza,銀座線
 tokyometro/tozai,東西線
 tokyometro/hibiya,日比谷線
 tokyometro/marunouchi,丸ノ内線
+tokyometro/hanzomon,半蔵門線
+tokyometro/yurakucho,有楽町線
 
 # 東葉高速鉄道
 toyorapid,東葉高速線
+
+# 東急
+tokyu/denentoshi,東急田園都市線
 
 # 東京臨海高速鉄道
 rinkai,りんかい線
