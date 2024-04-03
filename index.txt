@@ -1,18 +1,18 @@
 # JR 東日本
-jreast/chuo-sobu,中央・総武線
-jreast/kehin-tohoku,京浜東北線
-jreast/keiyo,京葉線
-jreast/musashino,武蔵野線
-jreast/narita,成田線
-jreast/sobu-yokosuka,総武線
-jreast/sobu-yokosuka,横須賀線
-jreast/sotobo,外房線
-jreast/uchibo,内房線
-jreast/yamanote,山手線
-jreast/saikyo,埼京線
-jreast/shonan-shinjuku,湘南新宿ライン線
-jreast/tokaido,東海道線
-jreast/joban,常磐線
+jreast/chuo-sobu,中央・総武線,ＪＲ東日本
+jreast/kehin-tohoku,京浜東北線,ＪＲ東日本
+jreast/keiyo,京葉線,ＪＲ東日本
+jreast/musashino,武蔵野線,ＪＲ東日本
+jreast/narita,成田線,ＪＲ東日本
+jreast/sobu-yokosuka,総武線,ＪＲ東日本
+jreast/sobu-yokosuka,横須賀線,ＪＲ東日本
+jreast/sotobo,外房線,ＪＲ東日本
+jreast/uchibo,内房線,ＪＲ東日本
+jreast/yamanote,山手線,ＪＲ東日本
+jreast/saikyo,埼京線,ＪＲ東日本
+jreast/shonan-shinjuku,湘南新宿ライン線,ＪＲ東日本
+jreast/tokaido,東海道線,ＪＲ東日本
+jreast/joban,常磐線,ＪＲ東日本
 
 # 京急
 keikyu,京急線
@@ -30,23 +30,23 @@ hokuso,北総線
 shibayama,芝山鉄道線
 
 # 東京都交通局
-toei/asakusa,都営浅草線
-toei/mita,都営三田線
-toei/shinjuku,都営新宿線
+toei/asakusa,都営浅草線,都営
+toei/mita,都営三田線,都営
+toei/shinjuku,都営新宿線,都営
 
 # 東京メトロ
-tokyometro/ginza,銀座線
-tokyometro/tozai,東西線
-tokyometro/hibiya,日比谷線
-tokyometro/marunouchi,丸ノ内線
-tokyometro/hanzomon,半蔵門線
-tokyometro/yurakucho,有楽町線
+tokyometro/ginza,銀座線,東京メトロ
+tokyometro/tozai,東西線,東京メトロ
+tokyometro/hibiya,日比谷線,東京メトロ
+tokyometro/marunouchi,丸ノ内線,東京メトロ
+tokyometro/hanzomon,半蔵門線,東京メトロ
+tokyometro/yurakucho,有楽町線,東京メトロ
 
 # 東葉高速鉄道
 toyorapid,東葉高速線
 
 # 東急
-tokyu/denentoshi,東急田園都市線
+tokyu/denentoshi,東急田園都市線,東急
 
 # 東京臨海高速鉄道
 rinkai,りんかい線
