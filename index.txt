@@ -13,6 +13,7 @@ jreast/saikyo,埼京線,ＪＲ東日本
 jreast/shonan-shinjuku,湘南新宿ライン線,ＪＲ東日本
 jreast/tokaido,東海道線,ＪＲ東日本
 jreast/joban,常磐線,ＪＲ東日本
+jreast/tohoku-shinkansen,東北新幹線,ＪＲ東日本
 
 # 京急
 keikyu,京急線
