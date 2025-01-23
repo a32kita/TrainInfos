@@ -8,8 +8,8 @@ ONS, C
 ONS, E
 
 # 編成番号プレフィクス (FNP)
-FNP, 幹セシ
-FNP, 函ハシ
+FNP, 幹セシUJ
+FNP, 函ハシH
 
 # 編成番号サフィックス (FNS)
 
@@ -21,7 +21,7 @@ FNP, 函ハシ
 
 
 # 車両番号テンプレート (VNT)
-VNT, E235-
+VNT, E5**-
 
 # 運用報告タグ (ORT)
 ORT, jre_unyo
