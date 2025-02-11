@@ -42,6 +42,7 @@ tokyometro/hibiya,日比谷線,東京メトロ
 tokyometro/marunouchi,丸ノ内線,東京メトロ
 tokyometro/hanzomon,半蔵門線,東京メトロ
 tokyometro/yurakucho,有楽町線,東京メトロ
+tokyometro/chiyoda,千代田線,東京メトロ
 
 # 東葉高速鉄道
 toyorapid,東葉高速線
