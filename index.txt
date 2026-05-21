@@ -50,5 +50,8 @@ toyorapid,東葉高速線
 # 東急
 tokyu/denentoshi,東急田園都市線,東急
 
+# 東武
+tobu,東武線
+
 # 東京臨海高速鉄道
 rinkai,りんかい線
