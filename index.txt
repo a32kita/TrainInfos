@@ -51,7 +51,7 @@ toyorapid,東葉高速線
 tokyu/denentoshi,東急田園都市線,東急
 
 # 東武
-tobu,東武線
+tobu/noda,東武野田線,東武
 
 # 東京臨海高速鉄道
 rinkai,りんかい線
